@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your GitHub repository that focuses on Rooted/Jailbreak device detection:
 
----
 
 
 
